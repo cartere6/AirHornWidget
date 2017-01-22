@@ -3,3 +3,5 @@
 An android app that adds one simple widget.
 
 ![Preview](/app/src/main/res/drawable/buttonup.png "Preview")
+
+It plays a fun sound when pressed.
