@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Air Horn Widget</string>
     <string name="air_horn_label">Air Horn</string>
+    <string name="max_volume_on_press_label">Set media volume to max on press</string>
+    <string name="preference_repo_name">com.flynnsam.airhornwidget.PrefsMain</string>
+    <string name="max_volume_preference_key">com.flynnsam.airhornwidget.MaxVolumeOnPress</string>
 </resources>

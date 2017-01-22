@@ -7,6 +7,9 @@ import android.media.MediaPlayer;
 import com.flynnsam.airhornwidget.R;
 
 /**
+ * Utility class for handling a single instance of {@link MediaPlayer} across the JVM for the
+ * air horn sound.
+ *
  * Created by Sam on 2017-01-21.
  */
 
